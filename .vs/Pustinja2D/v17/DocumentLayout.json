@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB668130-191A-4E5E-B68A-63219D091321}|Pustinja2D.csproj|c:\\users\\mirko\\source\\repos\\pustinja2d\\desert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB668130-191A-4E5E-B68A-63219D091321}|Pustinja2D.csproj|solutionrelative:desert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB668130-191A-4E5E-B68A-63219D091321}|Pustinja2D.csproj|c:\\users\\mirko\\source\\repos\\pustinja2d\\pustinja2d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB668130-191A-4E5E-B68A-63219D091321}|Pustinja2D.csproj|solutionrelative:pustinja2d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB668130-191A-4E5E-B68A-63219D091321}|Pustinja2D.csproj|c:\\users\\mirko\\source\\repos\\pustinja2d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB668130-191A-4E5E-B68A-63219D091321}|Pustinja2D.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pustinja2D.csproj",
+              "DocumentMoniker": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\Pustinja2D.csproj",
+              "RelativeDocumentMoniker": "Pustinja2D.csproj",
+              "ToolTip": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\Pustinja2D.csproj",
+              "RelativeToolTip": "Pustinja2D.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-14T10:16:41.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Desert.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\Desert.cs",
+              "RelativeDocumentMoniker": "Desert.cs",
+              "ToolTip": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\Desert.cs",
+              "RelativeToolTip": "Desert.cs",
+              "ViewState": "AQIAAOQCAAAAAAAAAAAqwPUCAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:43:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mirko\\source\\repos\\Pustinja2D\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:40:27.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
